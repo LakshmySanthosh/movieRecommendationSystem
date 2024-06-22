@@ -5,3 +5,7 @@ The Movie Recommendation System operates on a content-based approach through a S
 
 ![image](https://github.com/LakshmySanthosh/movieRecommendationSystem/assets/121610033/21552331-2b04-4188-b5ca-2e09879b2af2)
 
+
+![image](https://github.com/LakshmySanthosh/movieRecommendationSystem/assets/121610033/f52d047d-56eb-4a3b-9df2-9bf04f843729)
+
+
